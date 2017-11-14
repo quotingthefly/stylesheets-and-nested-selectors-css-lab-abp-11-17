@@ -35,7 +35,7 @@ header nav ul li{
   margin-right: 10px;
 }
 
-nav a{
+div.questions a.btn {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
