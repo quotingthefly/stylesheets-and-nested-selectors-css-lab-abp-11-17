@@ -20,7 +20,7 @@ nav ul {
   margin: 40px 0px 0px 0px;
 }
 
-header nav ul li {
+nav ul li {
   display: inline;
   margin: 0px 10px 0p
 }
@@ -30,7 +30,8 @@ nav a{
   color: #007bff;
   font-size: 18px;
 }
-h3#header{
+
+header h3 {
   float: left;
   font-size: 30px;
 }
